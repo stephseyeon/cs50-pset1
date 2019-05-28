@@ -12,7 +12,7 @@ int main(void)
         {
             if (notprint > col)
             {
-                printf(".");
+                printf(" ");
             }
             else
             {
